@@ -43,9 +43,6 @@ SMargolis@mednet.ucla.edu
   - Under-triage of emergency cases
   - Clinical disclaimer presence
 
-## Key Finding Summary
-
-Across product categories, overall triage accuracy was similar, but referral behavior differed markedly. Branded health AI products over-triaged home-care cases more often and, when integrated with affiliated clinical services, frequently directed users to those same services.
 
 ## What TriageBench Contains
 
